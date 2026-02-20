@@ -1,55 +1,64 @@
-h1{
+h1 {
     background-color: rgb(54, 54, 54);
     color: white;
     padding: 3%;
     text-align: center;
     margin: 0px;
 }
-#hobby{
-text-align: center;
-background-color: rgb(94, 93, 93);
-padding: 1%;
-margin: 0px;
-}
-#about{
-border: 1px solid black ;
-margin: 30px;
-border-radius: 5px;
-padding-left: 10px;
-}
-#heading{
+
+#hobby {
     text-align: center;
-}
-#newabout{
-border: 1px solid black ;
-margin: 30px;
-border-radius: 5px;
-padding-left: 10px;
+    background-color: rgb(94, 93, 93);
+    padding: 1%;
+    margin: 0px;
 }
 
-#newabout p{
+#about {
+    border: 1px solid black;
+    margin: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+#heading {
+    text-align: center;
+}
+
+#newabout {
+    border: 1px solid black;
+    margin: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+#newabout p {
     background-color: gray;
     padding: 0.5%;
 }
-#Skills{
+
+#Skills {
     text-align: center;
     background-color: #fff;
 }
-#span1{
+
+#span1 {
     background-color: grey;
 }
-#contact1{
+
+#contact1 {
     text-align: center;
 }
-#Contact{
-    border: 1px solid black ;
-margin: 30px;
-border-radius: 5px;
-padding: 1%;
-background-color: rgb(143, 159, 163);
+
+#Contact {
+    border: 1px solid black;
+    margin: 30px;
+    border-radius: 5px;
+    padding: 1%;
+    background-color: rgb(143, 159, 163);
 }
-#reservation{
- background-color: rgb(0, 0, 0);
+
+#reservation {
+    background-color: rgb(0, 0, 0);
     color: white;
     padding: 1%;
     text-align: center;
